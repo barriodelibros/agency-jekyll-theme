@@ -34,7 +34,7 @@ people:
 
 - name: Amor de madre
   pic: 3
-  position: Lead Developer
+  position: 
   social:
     - title: twitter
       url: #
@@ -45,7 +45,7 @@ people:
 
 - name: Burro lector
   pic: 4
-  position: Lead Developer
+  position: 
   social:
     - title: twitter
       url: #
@@ -56,7 +56,7 @@ people:
 
 - name: Ménades
   pic: 5
-  position: Lead Developer
+  position: 
   social:
     - title: twitter
       url: #
@@ -125,8 +125,7 @@ social:
     url: http://twitter.com/barriolibros
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+ 
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
