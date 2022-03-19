@@ -699,6 +699,7 @@ section#contact .form-group textarea.form-control {
 section#contact .form-control:focus {
     border-color: #{{ site.data.template.color.primary }};
     box-shadow: none;
+    color: #545454!important;
 }
 
 section#contact::-webkit-input-placeholder {
