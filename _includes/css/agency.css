@@ -16,7 +16,7 @@ body {
 }
 
 .text-primary {
-    color:#000 ;
+    color:#545454 ;
 }
 
 p {
@@ -180,7 +180,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #000;
+    color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -212,7 +212,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.secondary }};
     font-weight: 300;
     letter-spacing: 1px;
-    color: #000;
+    color: #{{ site.data.template.color.primary }};
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
@@ -255,7 +255,11 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default .navbar-nav>.active>a {
         border-radius: 3px;
+        
     }
+
+    .navbar-fixed-top {border-bottom: 2px solid #545454 ;
+    padding-bottom: 5px}
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
