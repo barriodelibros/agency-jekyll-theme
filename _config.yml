@@ -40,8 +40,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    
 
 - name: Burro lector
   pic: 4
@@ -51,8 +50,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    
 
 - name: Ménades
   pic: 5
@@ -62,8 +60,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    
 
 - name: Libros de la Vorágine
   pic: 6
@@ -73,8 +70,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    
 
 - name: Índigo
   pic: 7
@@ -84,8 +80,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    
 
 - name: Carfax
   pic: 8
@@ -95,8 +90,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    
 
 - name: ENEB
   pic: 9
@@ -106,8 +100,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    
 
 - name: Insólita
   pic: 10
@@ -117,8 +110,109 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    
+
+- name: 
+  pic: 11
+  position: 
+  social:
+    - title: twitter
       url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 12
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 13
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 14
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 15
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 16
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 17
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 18
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 19
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+- name: 
+  pic: 20
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    
+
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
