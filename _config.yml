@@ -112,7 +112,7 @@ people:
       url: #
     
 
-- name: 
+- name: aloha
   pic: 11
   position: 
   social:
@@ -122,7 +122,7 @@ people:
       url: #
     
 
-- name: 
+- name: arraigo
   pic: 12
   position: 
   social:
@@ -132,7 +132,7 @@ people:
       url: #
     
 
-- name: 
+- name: con tinta me tienes
   pic: 13
   position: 
   social:
@@ -142,7 +142,7 @@ people:
       url: #
     
 
-- name: 
+- name: hermeneute
   pic: 14
   position: 
   social:
@@ -152,7 +152,7 @@ people:
       url: #
     
 
-- name: 
+- name: letraversal
   pic: 15
   position: 
   social:
@@ -162,7 +162,7 @@ people:
       url: #
     
 
-- name: 
+- name: extincio
   pic: 16
   position: 
   social:
@@ -172,7 +172,7 @@ people:
       url: #
     
 
-- name: 
+- name: piedra papel
   pic: 17
   position: 
   social:
@@ -182,7 +182,7 @@ people:
       url: #
     
 
-- name: 
+- name: ultramarina
   pic: 18
   position: 
   social:
@@ -202,15 +202,6 @@ people:
       url: #
     
 
-- name: 
-  pic: 20
-  position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
