@@ -13,9 +13,9 @@
                     <div class="team-member">
                         {% for network in member.social %}
                         <a href="{{ network.url }}" target="_blank"><img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt=""></a>
-                        {% endfor %}
+                        
                         <h4>{{ member.name }}</h4>
-                                               
+                        {% endfor %}         
                     </div>
                 </div>
                 {% endfor %}
