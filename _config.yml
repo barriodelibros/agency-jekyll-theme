@@ -14,23 +14,17 @@ people:
   pic: 1
   position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: website
+      url: https://www.contraescritura.com/
+   
 
 - name: Orciny Press
   pic: 2
   position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: website
+      url: https://www.orcinypress.com/
+   
 
 - name: Amor de madre
   pic: 3
@@ -112,7 +106,7 @@ people:
       url: #
     
 
-- name: aloha
+- name: Aloha
   pic: 11
   position: 
   social:
@@ -122,7 +116,7 @@ people:
       url: #
     
 
-- name: arraigo
+- name: Arraigo
   pic: 12
   position: 
   social:
@@ -132,7 +126,7 @@ people:
       url: #
     
 
-- name: con tinta me tienes
+- name: Con tinta me tienes
   pic: 13
   position: 
   social:
@@ -152,7 +146,7 @@ people:
       url: #
     
 
-- name: letraversal
+- name: Letraversal
   pic: 15
   position: 
   social:
@@ -162,7 +156,7 @@ people:
       url: #
     
 
-- name: extincio
+- name: Extinció
   pic: 16
   position: 
   social:
@@ -172,7 +166,7 @@ people:
       url: #
     
 
-- name: piedra papel
+- name: Piedra papel
   pic: 17
   position: 
   social:
@@ -182,7 +176,7 @@ people:
       url: #
     
 
-- name: ultramarina
+- name: Ultramarina
   pic: 18
   position: 
   social:
