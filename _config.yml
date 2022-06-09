@@ -13,17 +13,14 @@ people:
 - name: Contra escritura
   pic: 1
   position: 
-  social:
-    - title: website
-      url: https://www.contraescritura.com/
+  website: https://www.contraescritura.com/
+   
    
 
 - name: Orciny Press
   pic: 2
   position: 
-  social:
-    - title: website
-      url: https://www.orcinypress.com/
+  website: https://www.orcinypress.com/
    
 
 - name: Amor de madre
