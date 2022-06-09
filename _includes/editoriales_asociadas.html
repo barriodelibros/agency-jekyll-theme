@@ -11,7 +11,7 @@
                 {% for member in site.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <a href="{{ network.url }}"></a><img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt=""></a>
+                        <a href="{{ network.url }}" target="_blank"></a><img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt=""></a>
                         {% for network in member.social %}
                         <h4>{{ member.name }}</h4>
                         {% endfor %}
