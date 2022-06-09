@@ -11,16 +11,10 @@
                 {% for member in site.people %}
                 <div class="col-lg-3">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}.png" class="img-responsive img-circle" alt="">
+                        <a href="{{ member.website }}"><img src="img/team/{{ member.pic }}.png" class="img-responsive img-circle" alt=""></a>
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
-                            {% for network in site.website %}
-                            <li>
-                                <a href="{{ network.website }}">
-                                    <i class="fa fa-{{ network.name }}"></i>
-                                </a>
-                            </li>
+                        
                             {% endfor %}
 
                         </ul>
