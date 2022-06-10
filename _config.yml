@@ -26,163 +26,93 @@ people:
 - name: Amor de madre
   pic: 3
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+  website: https://editorialamordemadre.com/
     
 
 - name: Burro lector
   pic: 4
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+  website: https://burrolector.com/
     
 
 - name: Ménades
   pic: 5
   position: 
-  social:
-    - title: website
-      url: https://menadeseditorial.com/
-  
+  website: https://menadeseditorial.com/
     
 
 - name: Libros de la Vorágine
   pic: 6
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: https://lavoragine.org/
 
 - name: La niña azul
   pic: 7
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+  website: 
     
 
 - name: Carfax
   pic: 8
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+  website: https://labibliotecadecarfax.com/
     
 
 - name: ENEB
   pic: 9
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: 
 
 - name: Insólita
   pic: 10
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: https://insolitaeditorial.com/
 
 - name: Aloha
   pic: 11
-  position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+ position: 
+  website: https://insolitaeditorial.com/
 
 - name: Arraigo
   pic: 12
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: hhttps://lecturasdearraigo.com/
 
 - name: Con tinta me tienes
   pic: 13
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: https://contintametienes.com/
 
-- name: hermeneute
+- name: Horror vacui
   pic: 14
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: https://menadeseditorial.com/
+
 
 - name: Letraversal
   pic: 15
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: https://letraversal.com/
 
 - name: Extinció
   pic: 16
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: https://www.orcinypress.com/
 
 - name: Piedra papel
   pic: 17
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: https://piedrapapellibros.com
 
 - name: Ultramarina
   pic: 18
   position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    
+  website: https://www.orcinypress.com/
 
-    
+  - name: SECC
+  pic: 19
+  position: 
+  website: hhttps://edicionssecc.blogspot.com/  
 
 
 
