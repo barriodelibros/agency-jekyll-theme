@@ -9,13 +9,13 @@ description: "Un barrio de microeditoriales insumisas."
 
 
 # Team names, titles and social links
+
 people:
 - name: Contra escritura
   pic: 1
   position: 
   website: https://www.contraescritura.com/
-   
-   
+     
 
 - name: Orciny Press
   pic: 2
@@ -61,7 +61,7 @@ people:
 - name: Esto no es Berlín
   pic: 9
   position: 
-  website: 
+  website: https://www.estonoesberlin.com/
 
 - name: Insólita
   pic: 10
@@ -86,7 +86,7 @@ people:
 - name: Horror vacui
   pic: 14
   position: 
-  website: https://menadeseditorial.com/
+  website: https://horrorvacui.es/
 
 
 - name: Letraversal
@@ -97,7 +97,7 @@ people:
 - name: Extinció
   pic: 16
   position: 
-  website: https://www.orcinypress.com/
+  website: https://extincioedicions.com/
 
 - name: Piedra papel
   pic: 17
@@ -107,7 +107,7 @@ people:
 - name: Ultramarina
   pic: 18
   position: 
-  website: https://www.orcinypress.com/
+  website: https://editorialultramarina.com
 
   - name: SECC
   pic: 19
@@ -123,8 +123,9 @@ social:
   - title: facebook
     url:
  
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: instagram 
+    url: https://www.instagram.com/barrio.libro/
+
   - title: github
     url: https://github.com/barriodelibros
 # Postal address (add as many lines as necessary)
