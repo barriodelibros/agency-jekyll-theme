@@ -880,5 +880,5 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+section#portfolio .portfolio-item .portfolio-caption {
     visibility: hidden; display: none}
