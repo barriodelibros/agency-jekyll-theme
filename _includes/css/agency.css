@@ -884,3 +884,7 @@ body {
     display: none;
     visibility: hidden;
   }
+
+  .img-circle {
+    border-radius: 0!important;
+  }
