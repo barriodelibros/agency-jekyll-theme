@@ -888,3 +888,5 @@ body {
   .img-circle {
     border-radius: 0!important;
   }
+
+.col-lg-12 p {color : white;}
