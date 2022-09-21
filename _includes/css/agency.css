@@ -308,7 +308,7 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
-header .intro-text  img {max-width: 50%;}
+header .intro-text  img {max-width: 75%;}
 
 @media(min-width:768px) {
     header .intro-text {
